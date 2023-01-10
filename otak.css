@@ -1,10 +1,29 @@
+body {
+  background-color:grey;
+  
+  
+}
+
+
+
+
 .logo {
   color:grey;
-  text-align: center;
+  text-align: left;
   font-family: Monospace;
   background-color:black;
+  padding-left:4vh;
+  font-size: 3vh;
+}
+
+
+
+
+.log {
   height: 6vh;
   width: 100%;
-  padding: 2vh;
-  font-size: 3vh;
+  align-content: left;
+  border-right:2vw;
+  
+  
 }
