@@ -1,0 +1,10 @@
+.logo {
+  color:grey;
+  text-align: center;
+  font-family: Monospace;
+  background-color:black;
+  height: 6vh;
+  width: 100%;
+  padding: 2vh;
+  font-size: 3vh;
+}
