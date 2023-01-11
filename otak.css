@@ -49,3 +49,11 @@ body {
   margin-bottom: 30px;
  
 }
+
+.about {
+
+      Float:left;
+      Min-width:40vh;
+      Min-height:50vh;
+      Color: white;
+}
