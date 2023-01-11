@@ -67,6 +67,11 @@ nav ul li a img {
   color:white;
   z-index: 3vh;
   transition-duration:4s;
+   border-radius: 2vw;
+background: linear-gradient(315deg, #999999, #818181);
+box-shadow:  -5vw -5vw 10vw #fff,
+             5vw 5vw 10vw #000;
+  
 }
 nav ul li a img :hover {
   height: 3vh;
@@ -75,7 +80,7 @@ nav ul li a img :hover {
   text-decoration: none;
   color:white;
   border-radius: 41px;
-background: linear-gradient(315deg, #999999, #818181);
+background: linear-gradient(315deg, magenta , cyan);
 box-shadow:  -5vw -5vw 10vw #fff,
              5vw 5vw 10vw #000;
   transition-duration:4s;
